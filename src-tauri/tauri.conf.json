@@ -56,7 +56,7 @@
     "windows": [
       {
         "height": 600,
-        "width": 800,
+        "width": 500,
         "resizable": false,
         "title": "Windows Monitor"
       }
